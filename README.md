@@ -6,14 +6,14 @@
 
 
 <div diaplay="flex">
-- 🌱 I’m currently learning **React , Node js**
+- 🌱 I’m currently learning **React , Node js , Mongodb , Express**
 
 - 👨‍💻 All of my projects are available at [https://juber13.github.io/personal_portfolio/](https://juber13.github.io/personal_portfolio/)
 
 - 💬 Ask me about **Javascript , React , Node js**
 
 - 📫 How to reach me **juberk1010@gmail.com**
-- ⚡ Fun fact **I think i m quick learner**
+- ⚡ Fun fact **I Think i Am Quick Learner**
 <p align="left">
   
 <img 
