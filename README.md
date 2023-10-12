@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://t4.ftcdn.net/jpg/04/63/02/53/360_F_463025395_cbELweZtUMu0xg9Mb2sx3hNujIkXI12w.jpg)
 <h1 align="center">Hi 👋, I'm juber</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
