@@ -1,12 +1,15 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm juber</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="user-image"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juber13&label=Profile%20views&color=0e75b6&style=flat" alt="juber13" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juber13" alt="juber13" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=juber13" alt="juber13" />
+  </a> 
+</p>
 
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="user-image"/>
 - 🌱 I’m currently learning **React , Node js**
 
 - 👨‍💻 All of my projects are available at [https://juber13.github.io/personal_portfolio/](https://juber13.github.io/personal_portfolio/)
