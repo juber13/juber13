@@ -5,7 +5,7 @@
 
 
 <div diaplay="flex">
-- 🌱 I’m currently learning **React , Node js , Mongodb , Express**
+- 🌱 **React , Node js , Mongodb , Express**
 
 - 👨‍💻 All of my projects are available at [https://juber13.github.io/personal_portfolio/](https://juber13.github.io/personal_portfolio/)
 
