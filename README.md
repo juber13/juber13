@@ -5,7 +5,7 @@
 
 
 <div diaplay="flex">
-- 🌱 **React , Node js , Mongodb , Express**
+- 🌱 ** Javascript React , Node js , Mongodb , Express**
 
 - 👨‍💻 All of my projects are available at [https://juber13.github.io/personal_portfolio/](https://juber13.github.io/personal_portfolio/)
 
